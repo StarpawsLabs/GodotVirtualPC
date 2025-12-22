@@ -1,2 +1,2 @@
 # GodotVirtualPC
-Import a virtual pc to your game and make software to it.
+Import a virtual pc into your game and create software for it.
