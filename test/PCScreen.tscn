@@ -21,9 +21,3 @@ grow_vertical = 2
 script = ExtResource("1_6esd0")
 info = ExtResource("2_fpgot")
 metadata/_custom_type_script = "uid://k1s6flg286me"
-
-[node name="VFlowContainer" type="VFlowContainer" parent="PCScreen"]
-layout_mode = 0
-
-[node name="HFlowContainer" type="HFlowContainer" parent="PCScreen/VFlowContainer"]
-layout_mode = 2
